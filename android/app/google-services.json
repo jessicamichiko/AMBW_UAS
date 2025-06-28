@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:943538294556:android:353e0503747378b0f574d9",
+        "android_client_info": {
+          "package_name": "com.example.uas_c14210002"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-ZVw3b3xm2WFJLYa0nFTItsxCWKUDdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:943538294556:android:c008a9b73e95b4c1f574d9",
         "android_client_info": {
           "package_name": "com.petra.simplerecipekeeperr"
