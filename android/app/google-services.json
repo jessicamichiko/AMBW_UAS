@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943538294556",
+    "project_id": "simple-recipe-keeper-66731",
+    "storage_bucket": "simple-recipe-keeper-66731.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943538294556:android:c008a9b73e95b4c1f574d9",
+        "android_client_info": {
+          "package_name": "com.petra.simplerecipekeeperr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-ZVw3b3xm2WFJLYa0nFTItsxCWKUDdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
